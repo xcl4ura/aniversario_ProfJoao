@@ -1,0 +1,43 @@
+*{
+    background-image: url("img/matrixgif.gif");
+}
+
+.jao{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+}
+
+
+.jaoa{
+
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 231, 116);
+    font-size: 70px;
+
+}
+    .escolha{
+        text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+
+    }
+
+.imagem1{
+    float: left;
+}
+
+.imagem2{
+
+float: right;
+
+}
+
+.mp4{
+ width: 60%;
+
+
+}
